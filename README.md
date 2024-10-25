@@ -465,6 +465,7 @@ LIMIT 5;
 | South Korea    | 121.83                      |
 | Canada         | 103.20                      |
 | United Kingdom | 73.52                       |
+
 Key Findings
 - **Top Market**: India leads with net sales of $445.25 million, followed by the USA at $288.90 million.
 - **Moderate Performers**: South Korea and Canada exhibited moderate sales, while the UK struggled.
@@ -491,6 +492,7 @@ LIMIT 5;
 | Atliq e Store   | 133.08                      |
 | Flipkart        | 57.24                       |
 | Sage            | 52.49                       |
+
 Key Findings
 - **Top Performer**: Amazon leads with $218.21 million in net sales.
 - **Strong Contenders**: AtliQ Exclusive and AtliQ e Store follow closely.
