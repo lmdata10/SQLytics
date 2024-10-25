@@ -6,8 +6,6 @@
 🔍 Curious how SQL powers it all? Head over to the different sections ([Finance](/1_Finance/), [Top Performers](/2_Top_Performers/), [Supply Chain](/3_Supply_Chain/)) and watch the magic unfold!
 
 # Table of Contents
-
-# Table of Contents
 1. [Project Overview](#project-overview)
 2. [Tools & Technologies](#tools--technologies)
 3. [Approach](#approach)
