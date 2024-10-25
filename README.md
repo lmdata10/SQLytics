@@ -1048,7 +1048,7 @@ JOIN fa_2021 f21
 WHERE f21.Forecast_Accuracy < f20.Forecast_Accuracy
 ORDER BY Forecast_Accuracy_20 DESC;
 ```
-![Forecast_Accuracy_21v20](assets/FA_20_v_21.png)
+![Forecast_Accuracy_21v20](assets/Forecast_Accuracy_21_vs_20.png)
 
 Insights:
 - **Declining Accuracy**: Forecast accuracy decreased for many customers from 2020 to 2021, with **Atliq e Store** in the **Philippines** dropping from **42.65%** to **24.49%**.
