@@ -5,6 +5,18 @@
 
 🔍 Curious how SQL powers it all? Head over to the different sections ([Finance](/1_Finance/), [Top Performers](/2_Top_Performers/), [Supply Chain](/3_Supply_Chain/)) and watch the magic unfold!
 
+# Table of Contents
+
+# Table of Contents
+1. [Project Overview](#project-overview)
+2. [Tools & Technologies](#tools--technologies)
+3. [Approach](#approach)
+4. [The Analysis](#the-analysis)
+5. [What I Learned](#what-i-learned)
+6. [Insights](#insights)
+7. [Conclusion](#conclusion)
+
+
 ## Project Overview 
 
 In this project, I'll embark on an exciting journey to unlock the potential of the hardware industry using SQL. Why? Because every piece of data tells a story, and it’s time we bring those stories to light 💡.
