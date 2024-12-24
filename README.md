@@ -639,8 +639,6 @@ SELECT
 FROM cte1
 ORDER BY region, Net_Sales_in_Millions DESC;
 ```
-
-Add images from assets
 ![Top 5 Customers (APAC)](assets/Top_5_Customers_APAC.png)
 ![Top 5 Customers (EU)](assets/Top_5_Customers_EU.png)
 ![Top 5 Customers (NA)](assets/Top_5_Customers_NA.png)
